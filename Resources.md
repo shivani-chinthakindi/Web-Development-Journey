@@ -7,7 +7,6 @@
 ## Practice Platforms
 
 - Frontend Mentor
-- CodePen
 - MDN Web Docs
 - W3Schools
 

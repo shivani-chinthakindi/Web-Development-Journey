@@ -35,4 +35,4 @@ Apna College - Web Development Course
 
 ## Status
 
-[ ] HTML Fundamentals Completed 
+- [ ] HTML Fundamentals Completed 

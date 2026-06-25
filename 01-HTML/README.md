@@ -21,13 +21,6 @@ This folder contains my HTML practice and mini-projects while learning Web Devel
 05-tables  
 06-forms  
 07-semantic-tags  
-mini-projects
-
-## Mini Projects
-
-- Resume Website
-- Portfolio Website
-- Registration Form
 
 ## Learning Source
 

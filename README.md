@@ -25,7 +25,7 @@ This repository documents my Web Development learning journey.
 ## Progress Tracker
 
 ### HTML
-- [ ] Started
+- [x] Started
 - [ ] Completed
 
 ### CSS

@@ -10,7 +10,7 @@ This folder contains my HTML practice and mini-projects while learning Web Devel
 - Links and Images
 - Tables
 - Forms
-- Semantic HTML
+- Semantic tags
 
 ## Folder Structure
 

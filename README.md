@@ -26,10 +26,10 @@ This repository documents my Web Development learning journey.
 
 ### HTML
 - [x] Started
-- [ ] Completed
+- [x] Completed
 
 ### CSS
-- [ ] Started
+- [x] Started
 - [ ] Completed
 
 ### JavaScript
